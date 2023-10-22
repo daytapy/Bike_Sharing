@@ -11,3 +11,5 @@ streamlit run bike_sharing.py
 ```
 ## Link bike sharing dashboard
 https://bikesharing-zjvndmonvkfwh5fxt4psrt.streamlit.app/
+## Screenshot my dashboard
+![SS Dashboard](SS_BikeSharingDashboard.png)
