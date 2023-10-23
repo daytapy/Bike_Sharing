@@ -10,6 +10,6 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 streamlit run bike_sharing.py
 ```
 ## Link bike sharing dashboard
-https://bikesharing-zjvndmonvkfwh5fxt4psrt.streamlit.app/
+https://bikesharingdaytapy.streamlit.app/
 ## Screenshot my dashboard
 ![SS Dashboard](SS_BikeSharingDashboard.png)
