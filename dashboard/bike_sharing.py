@@ -3,11 +3,11 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 
-bike_df = pd.read_csv('bike_data.csv')
+bike_df = pd.read_csv('data/bike_data.csv')
 
 with st.sidebar:
     # Menambahkan logo perusahaan
-    st.image("bikerental2.png")
+    st.image("images/bikerental2.png")
     st.text('Nama : M Syahrul Majid')
     st.text('Email : majidsyahrul30@gmail.com')
 
